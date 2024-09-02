@@ -1,2 +1,2 @@
 # atividade_3.por
-minha terceira atividade em portugol
+My third Cotemig portugol activity learning while
